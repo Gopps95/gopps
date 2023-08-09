@@ -322,7 +322,7 @@ section.contact .container h1 {
 }
 section.contact .container p{
     text-align: center;
-    color: var(--color-white)
+    color: var(--color-white);
     opacity: 0.8;
     margin-top: 0.5rem; 
 
